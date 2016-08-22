@@ -170,7 +170,7 @@ if (window.Framer) {window.Framer.Defaults.DeviceView = {"deviceScale":"fit","se
 }
 if (window.Framer) {window.Framer.Defaults.DeviceComponent = {"deviceScale":"fit","selectedHand":"","deviceType":"apple-iphone-6s-rose-gold","contentScale":1,"orientation":0};
 }
-window.FramerStudioInfo = {"deviceImagesUrl":"\/_server\/resources\/DeviceImages","documentTitle":"CS_test3.framer"};
+window.FramerStudioInfo = {"deviceImagesUrl":"\/_server\/resources\/DeviceImages","documentTitle":"ixd_dismiss overlay.framer"};
 
 Framer.Device = new Framer.DeviceView();
 Framer.Device.setupContext();
